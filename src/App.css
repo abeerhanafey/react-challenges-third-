@@ -1,0 +1,24 @@
+.banner {
+  /* height: 63vh; */
+  background-image: url('./bg.jpg');
+  color: #fff;
+  margin-top: -30px;
+  padding-top: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+.footer {
+  background-color: blue;
+  color: silver;
+  font-family: monospace;
+  text-align: center;
+  padding: 10px;
+}
+
+.footer span {
+  text-decoration: underline;
+  color: #fff;
+}
